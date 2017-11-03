@@ -12,12 +12,12 @@ In order to be able to execute the code, one should install the follown componen
 File list
 ---------
 
-  AssemblyInfo.cs
-  App.Config
-  packages.config
-  Program.cs (our main file)
-  trvTest.csproj
-  trvTest.sln
+  - AssemblyInfo.cs
+  - App.Config
+  - packages.config
+  - Program.cs (our main file)
+  - trvTest.csproj
+  - trvTest.sln
   
  Execution
  ---------
